@@ -1,0 +1,22 @@
+.input_container {
+    display: flex;
+    gap: 2px;
+    justify-content: start;
+    height: 40px;
+}
+
+.input {
+    height: 40px;
+    outline: none;
+    border: none;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.41px;
+    color: #A0A0A0
+}
+
+.input_icon {
+    height: 40px;
+    display: flex;
+    align-items: center;
+}

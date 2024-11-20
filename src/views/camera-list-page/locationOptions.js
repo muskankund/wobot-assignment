@@ -1,0 +1,15 @@
+export const locationOptions = [
+  "Denver, CO",
+  "San Diego, CA",
+  "Chicago, IL",
+  "Miami, FL",
+  "San Francisco, CA",
+  "Los Angeles, CA",
+  "Philadelphia, PA",
+  "Seattle, WA",
+  "Phoenix, AZ",
+  "Houston, TX",
+  "Dallas, TX",
+  "Atlanta, GA",
+  "Boston, MA",
+];
