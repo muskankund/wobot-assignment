@@ -171,6 +171,8 @@ const CameraListPage = () => {
     getCamera();
   }, []);
 
+  console.log(error,loading)
+
   return (
     <div className="camera_list_container">
       <div className="logo_container">
